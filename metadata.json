@@ -1,0 +1,6 @@
+{
+  "name": "Web Browsing Agent",
+  "description": "An AI agent that can browse the web and search for information to answer your questions using the Gemini API Google Search tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
